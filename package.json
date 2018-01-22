@@ -24,14 +24,12 @@
     "babel-preset-react": "^6.24.1",
     "babel-preset-stage-1": "^6.24.1",
     "gh-pages": "^1.0.0",
-    "react": "*",
-    "react-redux": "^5.0.5",
-    "redux": "^3.6.0",
+    "react": "^16.2.0",
+    "react-redux": "^5.0.6",
+    "redux": "^3.7.2",
     "redux-form": "^7.1.2"
   },
   "devDependencies": {
-    "@storybook/addon-knobs": "^3.0.0",
-    "@storybook/react": "^3.0.0",
     "babel-cli": "6.24.1",
     "babel-core": "6.24.1",
     "babel-eslint": "7.2.3",
@@ -41,8 +39,7 @@
     "cross-env": "^5.0.0",
     "eslint": "3.19.0",
     "eslint-loader": "1.7.1",
-    "react": "^15.5.4",
-    "react-dom": "*",
+    "react-dom": "^16.2.0",
     "yargs": "7.1.0"
   },
   "keywords": [
